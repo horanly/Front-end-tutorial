@@ -4,7 +4,7 @@
 
 #####1. 导航类
 
-    - [IT网址导航 ](http://www.h-ui.net/site.shtml)
+   - [IT网址导航 ](http://www.h-ui.net/site.shtml)
     - [前端开发仓库](http://code.ciaoca.com/)
     - [前端导航](http://www.w3cmark.com/mark/)
     - [前端网址导航](http://www.daqianduan.com/nav)
@@ -14,7 +14,7 @@
 	
 #####2.入门类
 
-    - [智能社 - 精通JavaScript开发](http://study.163.com/course/introduction/224014.htm)
+   - [智能社 - 精通JavaScript开发](http://study.163.com/course/introduction/224014.htm)
     - [麻省理工学院公开课：计算机科学及编程导论](http://v.163.com/special/opencourse/bianchengdaolun.html)
     - [重新介绍 JavaScript（JS 教程）](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
     - [JavaScript中的this陷阱的最全收集--没有之一](http://segmentfault.com/a/1190000002640298)
@@ -32,13 +32,13 @@
 
 #####3. 效果类
 
-    - [弹出层](http://www.imooc.com/learn/58)
+   - [弹出层](http://www.imooc.com/learn/58)
     - [焦点图轮播特效](http://www.imooc.com/learn/18)
     
     
 #####4. 工具类
 
-    - [css sprite 雪碧图制作](http://www.imooc.com/learn/93)
+   - [css sprite 雪碧图制作](http://www.imooc.com/learn/93)
     - [版本控制入门 – 搬进 Github](http://www.imooc.com/learn/390)
     - [Grunt-beginner前端自动化工具](http://www.imooc.com/learn/30)
     - [最全的CSS渐变生成器-全兼容](http://www.colorzilla.com/gradient-editor/)
