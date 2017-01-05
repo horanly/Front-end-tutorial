@@ -1,58 +1,61 @@
-前端回忆录
 
-####一、 综合类
+1. 综合类
 
-#####1. 导航类
-
-    - [IT网址导航 ](http://www.h-ui.net/site.shtml)
-    - [前端开发仓库](http://code.ciaoca.com/)
-    - [前端导航](http://www.w3cmark.com/mark/)
-    - [前端网址导航](http://www.daqianduan.com/nav)
-    - [前端收藏夹](http://collect.w3ctrain.com/)
     - [前端知识体系](http://www.cnblogs.com/sb19871023/p/3894452.html)
+    - [前端知识结构](https://github.com/JacksonTian/fks)
+    - [Web前端开发大系概览](https://github.com/unruledboy/WebFrontEndStack)
+    - [Web前端开发大系概览-中文版](http://www.cnblogs.com/unruledboy/p/WebFrontEndStack.html)
     - [Web Front-end Stack v2.2](https://raw.githubusercontent.com/unruledboy/WebFrontEndStack/master/Web%20Front%20End%20Stack.png)
-	
-#####2.入门类
-
+    - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
+    - [前端书籍](https://github.com/dypsilon/frontend-dev-bookmarks)
+    - [前端免费书籍大全](https://github.com/vhf/free-programming-books)
+    - [前端知识体系](http://www.cnblogs.com/sb19871023/p/3894452.html)
+    - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
     - [智能社 - 精通JavaScript开发](http://study.163.com/course/introduction/224014.htm)
-    - [麻省理工学院公开课：计算机科学及编程导论](http://v.163.com/special/opencourse/bianchengdaolun.html)
     - [重新介绍 JavaScript（JS 教程）](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+    - [麻省理工学院公开课：计算机科学及编程导论](http://v.163.com/special/opencourse/bianchengdaolun.html)
     - [JavaScript中的this陷阱的最全收集--没有之一](http://segmentfault.com/a/1190000002640298)
     - [JS函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html)
-    - [前端开发笔记本](https://li-xinyang.gitbooks.io/frontend-notebook/content/)
-    - [前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/)
-    - [瘳雪峰的Javascript教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
     - [JavaScript Promise迷你书（中文版）](http://liubin.github.io/promises-book/)
     - [腾讯移动Web前端知识库](https://github.com/AlloyTeam/Mars)
-    - [结合个人经历总结的前端入门方法](https://github.com/qiu-deqing/FE-learning)
+    - [Front-End-Develop-Guide 前端开发指南](https://github.com/Front-End-Developers-Hunan/Front-End-Develop-Guide)
+    - [前端开发笔记本](https://li-xinyang.gitbooks.io/frontend-notebook/content/)
     - [大前端工具集 - 聂微东](https://github.com/nieweidong/fetool)
-    - [前端知识结构](https://github.com/JacksonTian/fks)
-    - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
-    - [Front-End-Develop-Guide 前端开发指南](https://github.com/Front-End-Developers-Hunan/Front-End-Develop-Guide)  
+    - [前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/)
 
-#####3. 效果类
+2. 入门类
+
+    - [前端入门教程](http://www.cnblogs.com/jikey/p/3613082.html)
+    - [瘳雪峰的Javascript教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
+    - [jQuery基础教程](http://www.imooc.com/view/11)
+    - [前端工程师必备的PS技能——切图篇](http://www.imooc.com/view/506)
+    - [结合个人经历总结的前端入门方法](https://github.com/qiu-deqing/FE-learning)
+
+3. 效果类
 
     - [弹出层](http://www.imooc.com/learn/58)
     - [焦点图轮播特效](http://www.imooc.com/learn/18)
     
-    
-#####4. 工具类
+4. 工具类
 
     - [css sprite 雪碧图制作](http://www.imooc.com/learn/93)
     - [版本控制入门 – 搬进 Github](http://www.imooc.com/learn/390)
     - [Grunt-beginner前端自动化工具](http://www.imooc.com/learn/30)
-    - [最全的CSS渐变生成器-全兼容](http://www.colorzilla.com/gradient-editor/)
-    - [layerstyles-css投影在线制作](http://layerstyles.org/builder.html)
-    - [css3动画工具](https://isux.tencent.com/css3/tools.html)
-    - [CSS 中文字体 Unicode 编码表](http://code.ciaoca.com/style/cssfont2unicode/)
-    - [css-Text Stroke(文本阴影)](http://www.css88.com/tool/css3Preview/Text-Stroke.html)
-    - [在线CSS3代码生成器](http://enjoycss.com/)
-    - [CSS背景颜色属性值转换](http://linxz.github.io/tianyizone/hex_color.html)
-    - [前端工具库](http://www.qdfuns.com/tools)
 
-####二、 API:
+5. 慕课专题
 
-#####1. 总目录
+    - [张鑫旭 - 慕课系列](http://www.imooc.com/space/teacher/id/197450)
+    - [lyn - 慕课系列](http://www.imooc.com/space/teacher/id/104593)
+    - [艾伦 - 慕课系列](http://www.imooc.com/space/teacher/id/290139)
+    - [碧仔 - Hello，移动WEB](http://www.imooc.com/view/494)
+
+6. 周报类
+
+    - [平安科技移动开发二队技术周报](https://github.com/PaicHyperionDev/MobileDevWeekly)
+
+###六. API:
+
+####1. 总目录
 
 1. 开发中心
 
@@ -75,7 +78,7 @@
     - [开源中国在线API文档合集](http://tool.oschina.net/apidocs)
     - [devdocs](http://devdocs.io/) 英文综合API网站
 
-#####2. jQuery
+####2. jQuery
 
 * [jQuery API 中文文档](http://www.jquery123.com/)
 * [hemin 在线版](http://hemin.cn/jq/)
@@ -84,7 +87,7 @@
 * [学习jquery](http://learn.jquery.com/)
 * [jquery 源码查找](http://james.padolsey.com/jquery/)
 
-#####3. Ecmascript
+####3. Ecmascript
 
 - [Understanding ECMAScript 6 - Nicholas C. Zakas](https://leanpub.com/understandinges6/read)
 - [exploring-es6](https://leanpub.com/exploring-es6/read)
@@ -95,7 +98,7 @@
 - [ECMA-262，第 5 版](http://yanhaijing.com/es5/)
 - [es5](http://es5.github.io/)
 
-#####4. Js template
+####4. Js template
 
 - [template-chooser](http://garann.github.io/template-chooser/)
 - [artTemplate](https://github.com/aui/artTemplate)
@@ -108,7 +111,7 @@
 - [dustjs](http://akdubya.github.io/dustjs/)
 - [etpl](http://ecomfe.github.io/etpl/)
 
-#####5. 弹出层
+####5. 弹出层
 
 - [artDialog 最新版](https://github.com/aui/artDialog)
 - [artDialog 文档](http://aui.github.io/artDialog/doc/index.html)
@@ -117,7 +120,7 @@
 - [响应式用户交互组件库](https://github.com/bh-lay/UI)
 - [sweetalert-有css3动画弹出层](http://t4t5.github.io/sweetalert/)
 
-#####6. CSS
+####6. CSS
 
 - [CSS 语法参考](http://tympanus.net/codrops/css_reference/)
 - [CSS3动画手册](http://isux.tencent.com/css3/index.html)
@@ -129,7 +132,7 @@
 - [animate.css](http://daneden.github.io/animate.css/)
 - [全局CSS的终结(狗带) [译]](http://www.alloyteam.com/2015/10/8536/)
 
-#####7. Angularjs
+####7. Angularjs
 
 - [Angular.js 的一些学习资源](https://github.com/dolymood/AngularLearning)
 - [angularjs中文社区](http://angularjs.cn/)
@@ -158,7 +161,7 @@
 - [AngularJS在线教程](http://each.sinaapp.com/angular/)
 - [angular学习笔记](http://www.zouyesheng.com/angular.html)
 
-#####8. React
+####8. React
 - [react.js 中文论坛](http://www.react-china.org/)
 - [react.js 官方网址](https://facebook.github.io/react/index.html)
 - [react.js 官方文档](https://facebook.github.io/react/docs/getting-started.html)
@@ -175,7 +178,7 @@
 - [基于webpack搭建前端工程解决方案探索](http://segmentfault.com/a/1190000003499526)
 - [React原创实战视频教程](http://www.piliyu.com/)
 
-#####9. 移动端API
+####9. 移动端API
 
 1. API    
     - [99移动端知识集合](https://github.com/jtyjty99999/mobileTech)
@@ -194,14 +197,14 @@
     - [特色的HTML框架可以创建精美的iOS应用](http://framework7.taobao.org/)
     - [淘宝SUI](http://m.sui.taobao.org/)
 
-#####10. avalon
+####10. avalon
 
 - [avalonjs](http://avalonjs.github.io/)
 - [Avalon新一代UI库： OniUI](http://ued.qunar.com/oniui/index.html)
 - [avalon.oniui-基于avalon的组件库](https://github.com/RubyLouvre/avalon.oniui)
 - []()
 
-#####11. Requriejs
+####11. Requriejs
 
 - [Javascript模块化编程（一）：模块的写法 ](http://www.ruanyifeng.com/blog/2012/10/javascript_module.html)
 - [Javascript模块化编程（二）：AMD规范](http://www.ruanyifeng.com/blog/2012/10/asynchronous_module_definition.html)
@@ -215,19 +218,19 @@
 - [requriejs 其一 ](http://cyj.me/why-seajs/requirejs/ )
 - [require backbone结合](http://www.cnblogs.com/yexiaochai/p/3221081.html )
 
-#####12. Seajs
+####12. Seajs
 
 - [seajs](http://seajs.org/)
 - [seajs 中文手册](http://cyj.me/why-seajs/zh/)
 
-#####13. Less,sass
+####13. Less,sass
 
 - [sass](http://www.w3cplus.com/sassguide/)
 - [sass教程-sass中国](http://www.sass.hk/)
 - [Sass 中文文档](http://sass.bootcss.com/)
 - [less](http://less.bootcss.com/)
 
-#####14. Markdown
+####14. Markdown
         
 - [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/)
 - [markdown入门参考](https://github.com/LearnShare/Learning-Markdown/blob/master/README.md)
@@ -238,7 +241,7 @@
 - [lepture-editor](https://github.com/lepture/editor)
 - [markdown-editor](https://github.com/jbt/markdown-editor)
 
-#####15. D3
+####15. D3
 
 - [d3 Tutorials](https://github.com/mbostock/d3/wiki/Tutorials)
 - [Gallery](https://github.com/mbostock/d3/wiki/Gallery)
@@ -246,7 +249,7 @@
 - [iteye](http://alanland.iteye.com/blog/1878595)
 - [ruanyifeng](http://javascript.ruanyifeng.com/library/d3.html)
 
-#####16. 兼容性
+####16. 兼容性
 
 - [esma 兼容列表](http://kangax.github.io/compat-table/es6/)
 - [W3C CSS验证服务](http://jigsaw.w3.org/css-validator/validator.html.zh-cn)
@@ -256,7 +259,7 @@
 - [在线测兼容-移动端](http://www.responsinator.com/)
 - [emulators](https://www.manymo.com/emulators)
 
-#####17. UI相关
+####17. UI相关
 
 - [bootcss](http://v3.bootcss.com/)
 - [MetroUICSS](http://www.w3cplus.com/MetroUICSS/)
@@ -273,11 +276,11 @@
 - [book](http://git-scm.com/book/zh)
 - [gogojimmy](http://gogojimmy.net/2012/01/17/how-to-use-git-1-git-basic/)
 
-#####18. HTTP
+####18. HTTP
 
 - [HTTP API 设计指南](http://segmentfault.com/bookmark/1230000002521721)
 
-#####19. 其它API
+####19. 其它API
 
 - [javascript流行库汇总](javascriptoo)
 - [验证api](http://niceue.com/validator/demo/index.php)
@@ -297,7 +300,7 @@
 - [ai-to-svg](http://www.zamzar.com/convert/ai-to-svg/)
 - [localStorage 库](https://github.com/machao/localStorage)
 
-#####20. 图表类
+####20. 图表类
 
 - [Highcharts 中文API](http://www.hcharts.cn/api/index.php)
 - [Highcharts 英文API](http://api.highcharts.com/highcharts)
@@ -306,7 +309,7 @@
 - [开源的矢量图脚本框架](http://paperjs.org/)
 - [svg 地图](http://jvectormap.com/)
 
-#####21. vue
+####21. vue
 
 - [Vue](http://cn.vuejs.org/)
 - [Vue 论坛](http://forum.vuejs.org/)
@@ -314,7 +317,7 @@
 - [Vue 的一些资源索引](http://segmentfault.com/a/1190000000411057)
 - []()
 
-#####21. 正则
+####21. 正则
 
 - [JS正则表达式元字符](http://segmentfault.com/a/1190000002471140)
 - [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
@@ -325,17 +328,15 @@
 - [正则在线测试](http://regexper.com/)
 - []()
 
-#####22. ionic
+####22. ionic
 
 - [ionic](https://github.com/ychow/ionic-guide)
 
-#####23. 其它
+####23. 其它
 
 - [Mock.js 是一款模拟数据生成器](http://mockjs.com/)
 
-####三、 开发规范
-
-#############################################
+###七. 开发规范
 
 1. 前端
     - [通过分析github代码库总结出来的工程师代码书写习惯](http://alloyteam.github.io/CodeGuide)
@@ -1022,5 +1023,3 @@
     - [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
     - [使用git和github进行协同开发流程](http://livoras.com/post/28)
     - [动画方式练习git](http://onlywei.github.io/explain-git-with-d3/)
-# Front-end-tutorial
-# Front-end-tutorial
